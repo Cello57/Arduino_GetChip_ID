@@ -8,7 +8,9 @@ an identifier that can be no more than a 32-bit integer
 (like for switch...case).
 
 created 2020-06-07 by cweinhofer
-with help from Cicicok */
+with help from Cicicok 
+
+rev. MD 14/9/24*/
 	
 uint32_t chipId = 0;
 
